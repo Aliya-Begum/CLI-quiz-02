@@ -1,0 +1,23 @@
+{
+  "name": "cli-quiz-1",
+  "version": "1.0.0",
+  "description": "A node.js CLI quiz to ask the user, how good he is in web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliya-Begum/CLI-quiz-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aliya-Begum/CLI-quiz-02/issues"
+  },
+  "homepage": "https://github.com/Aliya-Begum/CLI-quiz-02#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
