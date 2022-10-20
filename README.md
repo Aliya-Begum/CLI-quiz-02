@@ -1,2 +1,2 @@
-# CLI-quiz-02
-A node.js CLI quiz to ask the user, how good he is in web development.
+# Quiz-02 : How good you are at web development?
+A node.js CLI quiz, basically this app asks the user some questions and shows the score.
